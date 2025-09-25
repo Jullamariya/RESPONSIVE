@@ -1,0 +1,11 @@
+
+@media (min-width:600px) {
+  .top-section-two{
+    display:none;
+  }
+  .top-section-three{
+    display:none;
+  }
+  .section-four-all{
+    display:none;
+  }
